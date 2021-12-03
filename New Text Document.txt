@@ -1,0 +1,11 @@
+10
+food
+drink
+stationary
+x
+y
+z
+t
+m
+n
+p
